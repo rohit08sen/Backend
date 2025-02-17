@@ -1,0 +1,18 @@
+{
+  "name": "1productionanddeploy",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "rohit"
+  ],
+  "author": "rohit senapati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
